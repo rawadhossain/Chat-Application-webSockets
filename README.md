@@ -1,10 +1,10 @@
 # React + TypeScript + Vite
 
 # Sample Screenshot
+![image](https://github.com/user-attachments/assets/711b6b13-ec0c-46f6-8da6-55530f276e1e)
+<br>
+![image](https://github.com/user-attachments/assets/367d16e8-68fd-4782-a17b-62aec469e6e4)
 
-![alt text](image.png)
-<br><br>
-![alt text](image-1.png)
 
 <br>
 <br>
